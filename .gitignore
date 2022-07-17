@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.ipynb_checkpoints
 
 *.ipynb_checkpoints
 
